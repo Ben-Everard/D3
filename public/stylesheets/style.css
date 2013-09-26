@@ -1,0 +1,16 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.bar {
+  display: inline-block;
+  width: 20px;
+  height: 75px;
+  margin-right: 2px;
+  background-color: teal;
+}
